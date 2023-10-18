@@ -16,11 +16,10 @@ include_in_header: true
     - [Starscream v3.1.1](https://github.com/daltoniam/Starscream.git)
  - [DateHelper v4.3.0](https://github.com/melvitax/DateHelper)
  - [swift-nio-zlib-support v1.0.0](https://github.com/apple/swift-nio-zlib-support)
- - [SDWebImageSwiftUI v1.5.0](https://github.com/SDWebImage/SDWebImageSwiftUI)
-    - [SDWebImage v5.8.0](https://github.com/SDWebImage/SDWebImage)
+ - [Kingfisher v7.9.1](https://github.com/onevcat/Kingfisher)
 
 ## Releases
   Release related information and source codes can be found on each reporsitory's home page.
 
 **Last updated**  
-July 15 2020
+October 18 2023
